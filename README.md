@@ -1,2 +1,2 @@
-# git-scratch
+# Version B
 Git from scratch sample
