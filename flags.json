@@ -1,0 +1,39 @@
+{
+  "flags": [
+    {
+      "contractor": "Birchline Construction",
+      "quarter": "2026Q4",
+      "reasons": [
+        "current ratio 1.15 below 1.2",
+        "working capital down 33.3% QoQ"
+      ],
+      "current_ratio": 1.15,
+      "working_capital": 180.0,
+      "wc_change_pct": -33.3,
+      "ratio_change_pct": -6.9
+    },
+    {
+      "contractor": "Cobalt Civil",
+      "quarter": "2026Q3",
+      "reasons": [
+        "working capital down 22.6% QoQ"
+      ],
+      "current_ratio": 1.8,
+      "working_capital": 1200.0,
+      "wc_change_pct": -22.6,
+      "ratio_change_pct": -10.0
+    }
+  ],
+  "data_issues": [
+    {
+      "contractor": "Dunmore Paving",
+      "quarter": "2026Q3",
+      "issue": "missing current assets or liabilities"
+    },
+    {
+      "contractor": "Eastgate Electric",
+      "quarter": "2026Q4",
+      "issue": "current liabilities are zero; ratio undefined"
+    }
+  ]
+}
